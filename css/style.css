@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(rgb(70, 113, 255), rgb(0, 255, 234));
+    height: 100vh;
+}
+
+.rotulo{
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.btn__limpar{
+    width: 100%;
+}
